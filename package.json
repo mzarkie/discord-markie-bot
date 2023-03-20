@@ -1,0 +1,37 @@
+{
+  "name": "markie-bot",
+  "version": "1.0.0",
+  "description": "testing bot for markie",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "markie",
+  "license": "MIT",
+  "dependencies": {
+    "discord-interactions": "^3.2.0",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ngrok": "^4.3.3",
+    "node": "^19.8.1",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzarkie/discord-markie-bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mzarkie/discord-markie-bot/issues"
+  },
+  "homepage": "https://github.com/mzarkie/discord-markie-bot#readme"
+}
