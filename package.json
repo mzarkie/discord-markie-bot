@@ -11,6 +11,7 @@
   "author": "markie",
   "license": "MIT",
   "dependencies": {
+    "discord-api-types": "^0.37.36",
     "discord-interactions": "^3.2.0",
     "discord.js": "^14.8.0",
     "dotenv": "^16.0.3",
